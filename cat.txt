@@ -2,4 +2,4 @@ Command:cat
 use:It can be used to create a file, display content of the file, copy the content of one file to another file, and more.
 Synatx:cat > <file name>
 -->To display contents of a file
-Syntax:cat <file name>  
+Syntax:cat <file name> 
