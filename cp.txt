@@ -1,0 +1,3 @@
+Syntax:
+cp <existing file name> <new file name> 
+To copy contents of file
