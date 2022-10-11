@@ -1,0 +1,3 @@
+Command:rm
+Use:To remove a file
+Synatx:rm<filename>
