@@ -1,0 +1,2 @@
+Commad :Mkdir
+uses:to create a directory
