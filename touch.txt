@@ -1,0 +1,7 @@
+Command:touch
+Use:used to create empty files .
+Syntax:
+touch <filename>
+-->To create multiple empty files only by executing the first file once
+Suntax:
+touch <file> <file>...

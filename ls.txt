@@ -1,0 +1,4 @@
+Command:ls
+Use:display a list of contents in directory
+Syntax:
+ls
