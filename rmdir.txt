@@ -1,0 +1,4 @@
+Command:rmdir
+Use:delete a directory 
+Syntax:
+rmdir <directory name>

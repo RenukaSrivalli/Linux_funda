@@ -1,0 +1,4 @@
+Command:pwd
+Use:displays the location of current working directory
+Syntax:
+pwd
